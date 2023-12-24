@@ -2,7 +2,11 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.header, .index-text {
+.header {
+    text-align: center;
+}
+
+.index-text {
     text-align: center;
 }
 
@@ -17,3 +21,8 @@
     display: table;
     margin: 0 auto;
   }
+
+.link {
+    color: blue;
+    font-weight: bold;
+}
